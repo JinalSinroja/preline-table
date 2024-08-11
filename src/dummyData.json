@@ -1,0 +1,19 @@
+{
+  "HOTEL": { "hotel_name": ["test", "test1", "test3"] },
+  "RATES": { "rate1": ["1", "12", "13"] },
+  "TEST_SCHEMA": {
+    "test": ["true", "false", "false"],
+    "test2": ["true", "true", "true"],
+    "test3": ["true", "true", "true"]
+  },
+  "TEST_SCHEMA2": {
+    "test": ["true", "false", "false"],
+    "test2": ["true", "true", "true"],
+    "test3": ["true", "true", "true"]
+  },
+  "TEST_SCHEMA3": {
+    "test": ["true", "false", "false"],
+    "test2": ["true", "true", "true"],
+    "test3": ["true", "true", "true"]
+  }
+}
